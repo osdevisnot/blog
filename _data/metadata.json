@@ -1,0 +1,21 @@
+{
+  "title": "osdevisnot",
+  "url": "https://osdevisnot.github.io/",
+  "language": "en",
+  "description": "Javascript, Golang, Python and more...",
+  "feed": {
+    "subtitle": "Javascript, Golang, Python and more...",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://osdevisnot.github.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://osdevisnot.github.io/feed/feed.json"
+  },
+  "author": {
+    "name": "Abhishek",
+    "email": "osdevisnot@gmail.com",
+    "url": "https://osdevisnot.github.io/about-me/"
+  }
+}
